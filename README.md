@@ -5,8 +5,14 @@
 - 더 빨리 배달해야 하는 서비스 문화가 자리를 잡으면서 이들의 안전이 위협
 - 피로감을 느껴 졸음 운전의 가능성 높음
 
+| 사고 현황 |
+| ------ |
+|![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/accident_status.png)|
 
-![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/accident_status.png)
+
+| 오토바이 CC 빈도 |
+| ------ |
+|![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/motorcycle_total.png)|
 
 | 영상 시청을 원할시 클릭 |
 | ------ |
