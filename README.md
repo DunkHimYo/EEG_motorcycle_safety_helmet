@@ -31,6 +31,11 @@
 | ------ |
 |![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/explain.jpg)|
 
+## 데이터 분석
+
+| 분석 |
+| ------ |
+|![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/state.jpg)|)|
 ## 기대 효과
 
 - 기본적으로 헬멧을 착용해야 하기 때문에 헬멧 착용율 증진
