@@ -42,7 +42,7 @@
 - MLP으로 
 | 분석 |
 | ------ |
-|![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/model.jpg)|
+|![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/model.png)|
 
 ## 기대 효과
 
