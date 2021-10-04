@@ -26,6 +26,10 @@
 - 운행 중 흥분, 집중력 상태와 속도를 통해서 상황에 맞는 음성 메시지 출력
 - LED를 이용하여 주변 차량들에게 위험성을 알림
 
+## 데이터 수집
+| 수집 방법 |
+| ------ |
+|![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/explain.png)|
 ## 기대 효과
 
 - 기본적으로 헬멧을 착용해야 하기 때문에 헬멧 착용율 증진
