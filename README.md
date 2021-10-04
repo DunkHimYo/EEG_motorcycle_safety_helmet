@@ -6,7 +6,7 @@
 - 피로감을 느껴 졸음 운전의 가능성 높음
 
 
-![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/사고 현황.png)
+![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/accident_status.png)
 
 | 영상 시청을 원할시 클릭 |
 | ------ |
