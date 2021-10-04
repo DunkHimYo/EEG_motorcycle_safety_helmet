@@ -32,10 +32,11 @@
 |![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/explain.jpg)|
 
 ## 데이터 분석
-
+- 집중력이 떨어질때 Theta와 Alpha 부분에 튀는 것을 확인 할 수 있음
 | 분석 |
 | ------ |
 |![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/state.jpg)|)|
+
 ## 기대 효과
 
 - 기본적으로 헬멧을 착용해야 하기 때문에 헬멧 착용율 증진
