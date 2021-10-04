@@ -35,7 +35,14 @@
 - 집중력이 떨어질때 Theta와 Alpha 부분에 튀는 것을 확인 할 수 있음
 | 분석 |
 | ------ |
-|![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/state.jpg)|)|
+|![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/state.jpg)|
+
+
+## 모델 제작
+- MLP으로 
+| 분석 |
+| ------ |
+|![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/model.jpg)|
 
 ## 기대 효과
 
