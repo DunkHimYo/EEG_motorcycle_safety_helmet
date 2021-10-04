@@ -3,7 +3,7 @@
 | ------ |
 |[![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/main_img.png)](https://youtu.be/KndvLGN82pY)|
 
-# BCI 기반 뉴로 로보틱스 시스템
+# BCI 기술을 적용한 이륜차 안전 헬멧
 
 - 매년 이륜차의 사고 발생률 점진적 증가
 - 최근 배달 서비스 증가로 오토바이 운전자 사망사고가 늘어남
