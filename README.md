@@ -47,6 +47,7 @@
 
 ## 감정 인식
 - Emotiv API를 이용하여 감정에 대한 값을 상대적으로 받아와 데이터 처리
+
 | 감정 |
 | ------ |
 |![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/matrix.jpg)|
