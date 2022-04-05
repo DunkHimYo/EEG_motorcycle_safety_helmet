@@ -1,7 +1,7 @@
 
 | 영상 시청을 원할시 클릭 |
 | ------ |
-|[![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/main_img.png)](https://youtu.be/KndvLGN82pY)|
+|[![waiting](https://github.com/DunkHimYo/motorcycle-safety-helmet/blob/main/img/main_img.png)](https://youtu.be/VJhJqzU6J08)|
 
 # BCI 기술을 적용한 이륜차 안전 헬멧
 
